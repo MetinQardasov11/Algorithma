@@ -2,5 +2,5 @@
 
 ### Technologies used
 
-- ![Python Icon](https://img.icons8.com/color/100/000000/python.png) **Python**
+![Python Icon](https://img.icons8.com/color/100/000000/python.png) <h1>Python</h1>
 
